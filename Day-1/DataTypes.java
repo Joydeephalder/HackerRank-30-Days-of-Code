@@ -10,7 +10,7 @@ public class DataTypes {
 
                 int a=scan.nextInt();
                 double b=scan.nextDouble();
-                String temp=scan.nextLine();
+                scan.nextLine();
                 String c=scan.nextLine();
                 
                 scan.close();
