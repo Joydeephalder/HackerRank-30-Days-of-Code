@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/30-data-types/problem
+
 import java.util.Scanner;
 public class DataTypes {
     public static void main(String[] args) {
